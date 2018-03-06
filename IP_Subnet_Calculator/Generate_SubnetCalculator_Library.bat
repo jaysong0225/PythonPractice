@@ -1,0 +1,1 @@
+pyuic5 -x SubnetCalculator_UI.ui -o SubnetCalculator_Lib.py
